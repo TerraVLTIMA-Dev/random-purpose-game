@@ -5,3 +5,8 @@ PS: An meine Verfolger: Ich bin nach Süden gegangen.
 PPS: Folgen Sie meinen Ratschlägen.
 PPPS: Immer schön speichern!"
 In dem Turm ist außerdem ein intakter Schrank. Daran hängt ein Zettel: Nicht öffnen. Wenn man das Buch bereits gelesen hat, kann man ihn (mit doppelter Nachfrage) öffnen. Wenn man dies tut, erschein ein Dämonengott, der im (unmöglichen) Fall des Sieges ein G und keine Exp gibt. 
+
+
+
+##Was noch geschehen wird
+Im Verlauf der Story gibt es einen Plot Twist, sodass der Vater zum Antagonisten wird.
