@@ -9,4 +9,6 @@ In dem Turm ist außerdem ein intakter Schrank. Daran hängt ein Zettel: Nicht �
 
 
 ##Was noch geschehen wird
+Die nächste Stadt, welche Eric und Natalie betreten, wir Tinier Town Village sein.
+Später in irgendeinem Wald wird, einsam und alleine, das Schild "Tiniest Town Village" stehen.
 Im Verlauf der Story gibt es einen Plot Twist, sodass der Vater zum Antagonisten wird.
