@@ -5,6 +5,7 @@ PS: An meine Verfolger: Ich bin nach Süden gegangen.
 PPS: Folgen Sie meinen Ratschlägen.
 PPPS: Immer schön speichern!"
 In dem Turm ist außerdem ein intakter Schrank. Daran hängt ein Zettel: Nicht öffnen. Wenn man das Buch bereits gelesen hat, kann man ihn (mit doppelter Nachfrage) öffnen. Wenn man dies tut, erschein ein Dämonengott, der im (unmöglichen) Fall des Sieges ein G und keine Exp gibt.
+/*hier weiteren Verlauf der Reise einfügen, u. a. Tinier Town Village*/
 Im weiteren Verlauf der Reise kommt der Spieler im Schloss an und findet dort einen freundlichen Fürsten vor, der aber schnell unfreundlich wird, sobald er erfährt, dass Eric sich auf der Suche nach seinem Vater hierher verirrt hat, da er das Schloss des Fürsten mit dem des Königs verwechselt hat. Er befiehlt seinen Wachen, sie festzunehmen, woraufhin ein Kampf startet, Eric besiegt jedoch (natürlich) die Wachen und einer von ihnen, der den Verrat seines Fürsten nicht länger ertragen kann (er macht darüber allerdings nur schwammige Andeutungen), und sich daraufhin den Helden anschließt.
 Die Reise geht nun weiter, aus dem kleinen Fürstentum hinaus in die große weite Welt.
 
