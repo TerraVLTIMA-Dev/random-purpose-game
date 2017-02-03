@@ -15,3 +15,4 @@ Die Reise geht nun weiter, aus dem kleinen Fürstentum hinaus in die große weit
 Die nächste Stadt, welche Eric und Natalie betreten, wir Tinier Town Village sein.
 Später in irgendeinem Wald wird, einsam und alleine, das Schild "Tiniest Town Village" stehen.
 Im Verlauf der Story gibt es einen Plot Twist, sodass der Vater zum Antagonisten wird.
+Ein weiterer Charakter wird im Verlauf des Spiels auftreten, sein Name wird "Reichelt" sein, er wird allwissend sein, aber ihm ist alles scheißegal.
