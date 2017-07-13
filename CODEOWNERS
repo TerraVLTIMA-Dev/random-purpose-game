@@ -1,0 +1,8 @@
+#Global Owners
+* @Olfi01
+#Markdown File Owners
+*.md @Olfi01 @TriangularDemon
+#RPGMaker Owners
+RPG/* @Olfi01
+#Music Owners
+Musik/* @Olfi01 @TriangularDemon
