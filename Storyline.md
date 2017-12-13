@@ -18,4 +18,4 @@ Später in irgendeinem Wald wird, einsam und alleine, das Schild "Tiniest Town V
 Im Verlauf der Story gibt es einen Plot Twist, sodass der Vater zum Antagonisten wird.
 Ein weiterer Charakter wird im Verlauf des Spiels auftreten, sein Name wird "Reichelt" sein, er wird allwissend sein, aber ihm ist alles scheißegal.
 Es wird irgendwann die Frage aufkommen, was das alles eigentlich ist. Dabei wird sich erinnert an allerlei Unstimmigkeiten: Kisten mit Waffen oder Geld mitten im Wald, ein Lagerfeuer, das angezündet wurde, ohne zu wissen, wie...
-Ein fourth-wall-break wird natürlich kommen.
+Irgendwann wird Eric klar, dass er nur Protagonist eines Rollenspiels ist, und wendet sich daraufhin je nach Entscheidung, die der Spielende bisher getroffen hat, entweder gegen diesen oder entscheidet sich freiwillig, sich weiter von ihm führen zu lassen.
